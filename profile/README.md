@@ -2,6 +2,8 @@
 
 Modules for Powershell Core and Powershell, complitibale for windows and linux, availible on the psgallary and from chocolatey
 
+> Mirror NameSpace for https://gitlab.com/phellams
+
 <!--
 **Here are some ideas to get you started:**
 
