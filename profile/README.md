@@ -26,6 +26,9 @@ Modules are released under the
 
 [**Phellams-General-Resources**](https://github.com/phellams/Phellams-General-Resources) Such as Icons and logos are released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/phellams/.github/refs/heads/main/images/userstats.svg" />
+</div>
 
 [chocoRepoLink]: https://img.shields.io/badge/Chocolatey-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23693C5E&color=%23007C80
 [psgalRepoLink]: https://img.shields.io/badge/PSGallery-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%234B0082&color=%23007C80
