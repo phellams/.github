@@ -1,15 +1,34 @@
-# ***P***he***ll***ams ( PowerShell Automations )
+<div align="center">
+    <img width="128" src="https://raw.githubusercontent.com/phellams/phellams-general-resources/main/logos/phellams/dist/png/phellams-logo-512x512.png" alt="Phellams Logo">
+    <h1>Phellams</h1>
+    <code>[P]owers[HELL][A]uto[M]ation[S]</code> </br></br>
+    <p>PowerShell <b>Modules</b>, <b>Scripts</b>, <b>Libraries</b>, <b>tools</b> and <b>Dotnet Libraries</b> </p>
+</div>
 
-Modules for Powershell Core and Powershell, complitibale for windows and linux, availible on the psgallary and from chocolatey
+---
 
-> Mirror NameSpace for https://gitlab.com/phellams
+Modules are distributed as <code>Chocolatey</code> <code>PowerShellGallery</code> <code>GitLab Packages</code> nuget packages.
 
-<!--
-**Here are some ideas to get you started:**
+Smaller libraries, tools, and scripts clone the repository and manually import the module, see module readme for details.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Phellams Respositories:
+
+# 👉  ![Chocolatey][chocoRepoLink] ![psgal][psgalRepoLink] ![gitlab][gitlabRepoLink]
+
+### Phellams Mirrors
+
+![Mirror][gitHubMirror]
+
+## 📑 Licences
+
+Modules are released under the
+[MIT License](https://github.com/phellams/phellams/blob/main/LICENSE)
+
+[**Phellams-General-Resources**](https://github.com/phellams/Phellams-General-Resources) Such as Icons and logos are released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+
+[chocoRepoLink]: https://img.shields.io/badge/Chocolatey-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23693C5E&color=%23007C80
+[psgalRepoLink]: https://img.shields.io/badge/PSGallery-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%234B0082&color=%23007C80
+[gitlabRepoLink]: https://img.shields.io/badge/GitLab-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23E2522F&color=%23007C80
+[gitHubMirror]: https://img.shields.io/badge/GitHub-Mirror-Brown?style=for-the-badge&logoSize=auto&labelColor=%23000&color=%23008000
+
