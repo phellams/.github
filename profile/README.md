@@ -21,10 +21,10 @@ Smaller libraries, tools, and scripts clone the repository and manually import t
 
 ## 📑 Licences
 
-Modules are released under the
+Modules are released under the:
 [MIT License](https://github.com/phellams/phellams/blob/main/LICENSE)
 
-[**Phellams-General-Resources**](https://github.com/phellams/Phellams-General-Resources) Such as Icons and logos are released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+[**Phellams-General-Resources**](https://github.com/phellams/Phellams-General-Resources) Such as Icons and logos are released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) `/svgrepo` are added under there original [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/phellams/.github/refs/heads/main/images/userstats.svg" />
