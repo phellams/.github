@@ -12,8 +12,7 @@ Modules are distributed as <code>Chocolatey</code> <code>PowerShellGallery</code
 Smaller libraries, tools, and scripts clone the repository and manually import the module, see module readme for details.
 
 ### Phellams Respositories:
-
-# 👉  ![Chocolatey][chocoRepoLink] ![psgal][psgalRepoLink] ![gitlab][gitlabRepoLink]
+<a src="https://community.chocolatey.org/profiles/sgkens"><img src="https://img.shields.io/badge/Chocolatey-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23693C5E&color=%23007C80"></a> <a src="https://www.powershellgallery.com/profiles/sgkens"><img src="https://img.shields.io/badge/PSGallery-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%234B0082&color=%23007C80"></a> <a src="https://gitlab.com/phellams"><img src="https://img.shields.io/badge/GitLab-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%234B0082&color=%23007C80"></a>
 
 ### Phellams Mirrors
 
@@ -30,8 +29,5 @@ Modules are released under the:
   <img src="https://raw.githubusercontent.com/phellams/.github/refs/heads/main/images/userstats.svg" />
 </div>
 
-[chocoRepoLink]: https://img.shields.io/badge/Chocolatey-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23693C5E&color=%23007C80
-[psgalRepoLink]: https://img.shields.io/badge/PSGallery-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%234B0082&color=%23007C80
-[gitlabRepoLink]: https://img.shields.io/badge/GitLab-Repo-Brown?style=for-the-badge&logoSize=auto&labelColor=%23E2522F&color=%23007C80
 [gitHubMirror]: https://img.shields.io/badge/GitHub-Mirror-Brown?style=for-the-badge&logoSize=auto&labelColor=%23000&color=%23008000
 
